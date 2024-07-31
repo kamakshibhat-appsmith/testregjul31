@@ -1,13 +1,13 @@
 {
-  "gitSyncId": "66aa3a22485a9654255069b3_6a83adab-190f-432f-ac50-3ce04b314d42",
-  "id": "Page1__$momentFun1$_momentFun.myFun2",
+  "gitSyncId": "66aa3a22485a9654255069b3_d8b2700b-128e-4756-965f-5f3aa32e92db",
+  "id": "Page1__$momentFun2test$_momentFun.myFun2",
   "isPublic": true,
-  "moduleInstanceId": "Page1_momentFun1",
+  "moduleInstanceId": "Page1_momentFun2test",
   "pluginId": "js-plugin",
   "pluginType": "JS",
-  "rootModuleInstanceId": "Page1_momentFun1",
+  "rootModuleInstanceId": "Page1_momentFun2test",
   "unpublishedAction": {
-    "collectionId": "Page1__$momentFun1$_momentFun",
+    "collectionId": "Page1__$momentFun2test$_momentFun",
     "confirmBeforeExecute": false,
     "contextType": "PAGE",
     "datasource": {
@@ -16,7 +16,7 @@
       "pluginId": "js-plugin"
     },
     "executeOnLoad": false,
-    "fullyQualifiedName": "_$momentFun1$_momentFun.myFun2",
+    "fullyQualifiedName": "_$momentFun2test$_momentFun.myFun2",
     "name": "myFun2",
     "pageId": "Page1",
     "userSetOnLoad": false

@@ -1,0 +1,20 @@
+{
+  "gitSyncId": "66aa3a22485a9654255069b3_50f92703-b252-450c-8378-f1d9d0b53f73",
+  "id": "Page1_wewewe",
+  "unpublishedCollection": {
+    "name": "wewewe",
+    "pageId": "Page1",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": [
+      {
+        "name": "myVar1",
+        "value": "[]"
+      },
+      {
+        "name": "myVar2",
+        "value": "{}"
+      }
+    ]
+  }
+}

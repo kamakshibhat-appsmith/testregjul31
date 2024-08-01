@@ -4,7 +4,7 @@ export default {
 	myFun11q () {
 		//	write code here
 		//	this.myVar1 = [1,2,3]
-		return momentFun1.myFun2()
+		return momentFun11.myFun2()
 	},
 	async myFun2 () {
 		//	use async-await or promises

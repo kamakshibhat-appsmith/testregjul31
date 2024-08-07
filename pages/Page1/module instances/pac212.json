@@ -6,9 +6,16 @@
   "type": "JS_MODULE",
   "unpublishedModuleInstance": {
     "contextType": "PAGE",
-    "inputs": {},
+    "inputs": {
+      "myFun1": "[]",
+      "myFun2": "[]"
+    },
+    "moduleInputs": {
+      "ewtpvdufvw": {},
+      "zxndaoxhej": {}
+    },
     "name": "pac212",
     "pageId": "Page1",
-    "version": "0.0.1"
+    "version": "0.0.2"
   }
 }

@@ -6,15 +6,12 @@
   "type": "QUERY_MODULE",
   "unpublishedModuleInstance": {
     "contextType": "PAGE",
-    "dynamicBindingPathList": [],
-    "inputs": {
-      "input1": "1"
-    },
+    "inputs": {},
     "moduleInputs": {
       "cplqccewhe": {}
     },
     "name": "test1",
     "pageId": "Page1",
-    "version": "0.0.10"
+    "version": "0.0.12"
   }
 }

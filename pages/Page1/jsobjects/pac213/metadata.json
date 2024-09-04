@@ -1,0 +1,14 @@
+{
+  "gitSyncId": "66aa3a22485a9654255069b3_088ed1e1-06b7-4a77-ada1-6f1375443edf",
+  "id": "Page1__$pac213$_pac2",
+  "isPublic": true,
+  "moduleInstanceId": "Page1_pac213",
+  "rootModuleInstanceId": "Page1_pac213",
+  "unpublishedCollection": {
+    "contextType": "PAGE",
+    "name": "_$pac213$_pac2",
+    "pageId": "Page1",
+    "pluginId": "js-plugin",
+    "pluginType": "JS"
+  }
+}

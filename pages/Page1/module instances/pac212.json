@@ -6,9 +6,28 @@
   "type": "JS_MODULE",
   "unpublishedModuleInstance": {
     "contextType": "PAGE",
-    "inputs": {},
+    "inputs": {
+      "myFun1": "[]",
+      "myFun2": "[]"
+    },
+    "moduleInputs": {
+      "ewtpvdufvw": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "ewtpvdufvw",
+        "label": "myFun2",
+        "propertyName": "inputs.myFun2"
+      },
+      "zxndaoxhej": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "zxndaoxhej",
+        "label": "myFun1",
+        "propertyName": "inputs.myFun1"
+      }
+    },
     "name": "pac212",
     "pageId": "Page1",
-    "version": "0.0.1"
+    "version": "0.0.2"
   }
 }
